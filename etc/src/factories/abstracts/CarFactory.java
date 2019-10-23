@@ -1,8 +1,8 @@
 package factories.abstracts;
 
-import java.util.concurrent.locks.ReentrantLock;
-
 public interface CarFactory {
 
-
+    int f = 2;
+    int c = 3;
+    int k = 5;
 }
